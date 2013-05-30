@@ -1,0 +1,20 @@
+{
+  "author": "Gaz Ward",
+  "name": "nikeplus",
+  "description": "Access the Nike+ API with Node.js",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gazwuk/nike-plus-api"
+  },
+  "main": "./lib/nikeplus",
+  "bin": {
+    // "replaceme": "./bin/replaceme"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
